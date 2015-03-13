@@ -2,4 +2,5 @@
 *.pyo
 *.sublime-*
 *.sqlite3
+*.ipynb
 settings_local.py
